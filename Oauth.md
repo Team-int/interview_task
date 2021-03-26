@@ -1,4 +1,4 @@
-<h1> 팀 int 웹 전형 백엔드 면접 </h1>
+<h1> 디스코드 API 이해도 </h1>
 <img src="./img/oauth.png">
 <h3>조건</h3>
 <ul>
