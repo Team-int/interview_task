@@ -1,5 +1,5 @@
 <h1> 디스코드 API 이해도 </h1>
-<img src="./img/oauth.png">
+<img src="https://github.com/team-int/interview_task/raw/backend/img/oauth.png">
 <h3>조건</h3>
 <ul>
     <li>디스코드의 Oauth API를 사용하여 로그인 기능을 만듭니다.</li>
