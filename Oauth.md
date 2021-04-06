@@ -1,4 +1,4 @@
-# 디스코드 API 이해도
+# OAuth(디스코드 API 이해도)
 
 ![image](https://github.com/team-int/interview_task/raw/backend/img/oauth.png)
 
